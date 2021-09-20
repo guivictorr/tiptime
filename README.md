@@ -1,5 +1,5 @@
 <h1 align='center'>Tip Time</h1>
-<p align='center'>Tip calculator made to learn kotlin and android development.</p>
+<p align='center'>Tip calculator made during <a href="https://developer.android.com/courses/android-basics-kotlin/course">Android Basics in Kotlin course</a> to learn kotlin and android development.</p>
 
 ## 🛠 Technologies
 
